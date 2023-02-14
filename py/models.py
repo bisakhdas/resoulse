@@ -3,7 +3,7 @@ from django.conf import settings
 from django.apps import apps
 
 settings.configure()
-
+# hi this is liz
 if not apps.ready:
     apps.populate(settings.INSTALLED_APPS)
 
