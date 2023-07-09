@@ -1,5 +1,5 @@
 # resoulse
-Project
+
 The purpose of this project is to develop an HR system that will simplify the process of tracking employee work hours and attendance. The system will have a centralized database that stores employee information and last clocked in datetimes, allowing employees to easily log their work hours, including clock-in times, from any device with an internet connection. The system will be secure and protect employee data from unauthorized access.
 
 
